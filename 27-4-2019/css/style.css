@@ -1,0 +1,22 @@
+p.example1{
+border:1px solid;
+border-bottom-color:#009900;
+border-top-color:#FF0000; 
+border-left-color:#330000; 
+border-right-color:#0000CC;
+}
+p.example2{
+border:1px solid;
+border-color:green;
+border-width: 7px;
+}
+.e3{
+border-style:groove;
+border-width:15px;
+border-color: red; 
+}
+.e4{
+	border-style:none;
+	border-width:15px;
+	border-color: red; 
+}
